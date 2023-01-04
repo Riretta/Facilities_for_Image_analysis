@@ -1,5 +1,5 @@
-"""CLassify Images From Folder"""
-"""Rita Pucci - Naturalis - 2023"""
+"""Annotate Images From Folder"""
+"""Rita Pucci -  - 2023"""
 
 import cv2
 import os
